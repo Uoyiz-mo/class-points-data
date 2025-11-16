@@ -4,8 +4,14 @@
       "id": 1,
       "name": "黄子豪",
       "class": "软件2406",
-      "score": 0,
-      "history": []
+      "score": 1,
+      "history": [
+        {
+          "date": "2025/11/16 15:49:11",
+          "amount": 1,
+          "reason": "快速加分"
+        }
+      ]
     },
     {
       "id": 2,
@@ -218,6 +224,6 @@
       "history": []
     }
   ],
-  "lastUpdate": "2025-11-16T07:49:01.219Z",
+  "lastUpdate": "2025-11-16T07:49:11.141Z",
   "version": 1
 }
