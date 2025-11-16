@@ -4,53 +4,29 @@
       "id": 1,
       "name": "黄子豪",
       "class": "软件2406",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 15:48:20",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 2,
       "name": "高萌阳",
       "class": "土管2401",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 15:48:20",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 3,
       "name": "巢雯僖",
       "class": "农学2403",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 15:48:20",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 4,
       "name": "吴振宇",
       "class": "应化2403",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 15:48:20",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 5,
@@ -242,6 +218,6 @@
       "history": []
     }
   ],
-  "lastUpdate": "2025-11-16T07:48:39.284Z",
+  "lastUpdate": "2025-11-16T07:49:01.219Z",
   "version": 1
 }
