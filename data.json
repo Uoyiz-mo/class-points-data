@@ -4,53 +4,29 @@
       "id": 1,
       "name": "黄子豪",
       "class": "软件2406",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 2,
       "name": "高萌阳",
       "class": "土管2401",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 3,
       "name": "巢雯僖",
       "class": "农学2403",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 4,
       "name": "吴振宇",
       "class": "应化2403",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 5,
@@ -63,14 +39,8 @@
       "id": 6,
       "name": "邬海彬",
       "class": "动科2401",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 7,
@@ -90,79 +60,43 @@
       "id": 9,
       "name": "丰佳丽",
       "class": "食工2402",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 10,
       "name": "刘喻馨",
       "class": "动医2202",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 11,
       "name": "李冰冰",
       "class": "生工2302",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 12,
       "name": "赖瑞英",
       "class": "动医2401",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 13,
       "name": "高铭薇",
       "class": "旅游2401",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 14,
       "name": "庄一博",
       "class": "数艺2501",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 15,
@@ -175,27 +109,15 @@
       "id": 16,
       "name": "刘海燕",
       "class": "惟义生工2301",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 17,
       "name": "黄小丫",
       "class": "农学2403",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 18,
@@ -208,14 +130,8 @@
       "id": 19,
       "name": "彭荣",
       "class": "城规2201",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 20,
@@ -228,27 +144,15 @@
       "id": 21,
       "name": "何龙翔",
       "class": "计科2402",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 22,
       "name": "雷彤",
       "class": "资环2301",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 23,
@@ -261,79 +165,43 @@
       "id": 24,
       "name": "曾晓微",
       "class": "法学2501",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 25,
       "name": "周欣怡",
       "class": "公管2402",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 26,
       "name": "吴心纯",
       "class": "林化2401",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 27,
       "name": "李情",
       "class": "公管2402",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 28,
       "name": "李睿怡",
       "class": "茶学2501",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 29,
       "name": "柯炎杉",
       "class": "资环2501",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     },
     {
       "id": 30,
@@ -346,16 +214,10 @@
       "id": 31,
       "name": "何练",
       "class": "智慧农业2401",
-      "score": 10,
-      "history": [
-        {
-          "date": "2025/11/16 14:33:21",
-          "amount": 10,
-          "reason": "培训课签到"
-        }
-      ]
+      "score": 0,
+      "history": []
     }
   ],
-  "lastUpdate": "2025-11-16T07:43:50.866Z",
+  "lastUpdate": "2025-11-16T07:48:07.184Z",
   "version": 1
 }
